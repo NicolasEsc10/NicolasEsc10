@@ -1,13 +1,20 @@
-<div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi!, I'm Nicolas, a Front End Developer</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&random=false&width=700&height=60&lines=Hi!%2C+I'm+Nicolas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&random=false&width=750&height=62&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer" alt="Typing SVG" /></a>
+</h1>
+
+<div>
+
+![V3_Loading_Wallpaper_1 1](https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/71bb33d9-21d3-4161-bdc6-f3fb21fee7af)
+
+</div>
+<div style="display: flex; flex-direction:row;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 <br>
-<br>
-<br>
-<br>
 
-
-## 🌟 **About me**
+<h2 style="font-weight: 700;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" /> About me</h2>
 
 - 👨‍💻 I'm a Front End web developer with three years of industry experience.
 
@@ -21,19 +28,43 @@
 
 #### I'd love to collaborate with you on your next project! 😁
 
-## Proyectos en equipo
+<br>
 
-<!--
-**NicolasEsc10/NicolasEsc10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="font-weight: 700;"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" alt="Hot Beverage" width="23" height="23" />  Team projects</h2>
+<br>
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td align="center">
+      <h3 align="center">Smart Help</h3>
+      <div align="center">
+        <a href="https://smart-help-c16.vercel.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="400"></a>
+        <p>
+          <a href="https://github.com/No-Country/c16-60-t-node-react" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>SmartHelp</strong> es una plataforma de donaciones intuitiva y fácil de usar, diseñada para conectar a personas con causas significativas. Con nuestra herramienta, puedes descubrir y apoyar una variedad de proyectos benéficos, desde la comodidad de tu navegador.</p>
+      </div>
+    </td>      
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h2 style="font-weight: 700;"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png?raw=true" width="23" height="23" /> Languages and Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,npm,yarn,pnpm,ts,js,html,css,sass,bootstrap,materialui,discord,netlify,vercel,github,git,bash,powershell,vscode,py,notion,figma&perline=10" />
+  </a>
+</p>
+<br>
+
+<h2 style="font-weight: 700;"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" width="23" height="23" /> Statistics</h2>
+
+<div align="center">
+  
+  ![NicolasEsc10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicolasEsc10&theme=vue-dark&hide_border=true)
+  ![NicolasEsc10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasEsc10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>

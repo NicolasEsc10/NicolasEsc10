@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <h3 align="center">Smart Help</h3>
       <div align="center">
         <a href="https://smart-help-c16.vercel.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="400"></a>
@@ -46,7 +46,19 @@
         </p>
         <p><strong>SmartHelp</strong> es una plataforma de donaciones intuitiva y fácil de usar, diseñada para conectar a personas con causas significativas. Con nuestra herramienta, puedes descubrir y apoyar una variedad de proyectos benéficos, desde la comodidad de tu navegador.</p>
       </div>
-    </td>      
+    </td> 
+    <td align="center" width="50%">
+      <h3 align="center">Calculator App</h3>
+      <div align="center">
+        <a href="calculator-app-repository.netlify.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/e0755569-857a-4c1d-957b-aebacf566ab1" width="400"></a>
+        <p>
+          <a href="https://github.com/NicolasEsc10/Calculator-app" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>📚 <strong>Calculator App</strong> is a simple and minimalist web application for a calculator. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division accurately and precisely.</p>
+      </div>
+    </td>     
   </tr>
 </table>
 

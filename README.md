@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" >
       <h3 align="center">Smart Help</h3>
       <div align="center">
         <a href="https://smart-help-c16.vercel.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="400"></a>
@@ -47,7 +47,7 @@
         <p><strong>SmartHelp</strong> es una plataforma de donaciones intuitiva y fácil de usar, diseñada para conectar a personas con causas significativas. Con nuestra herramienta, puedes descubrir y apoyar una variedad de proyectos benéficos, desde la comodidad de tu navegador.</p>
       </div>
     </td> 
-    <td align="center" width="50%">
+    <td align="center">
       <h3 align="center">Calculator App</h3>
       <div align="center">
         <a href="calculator-app-repository.netlify.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/e0755569-857a-4c1d-957b-aebacf566ab1" width="400"></a>

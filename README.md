@@ -5,8 +5,6 @@
 
 <div>
 
-![V3_Loading_Wallpaper_1 1](https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/71bb33d9-21d3-4161-bdc6-f3fb21fee7af)
-
 </div>
 <div style="display: flex; flex-direction:row;">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -59,6 +57,48 @@
         <p>📚 <strong>Calculator App</strong> is a simple and minimalist web application for a calculator. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division accurately and precisely.</p>
       </div>
     </td>     
+  </tr>
+  <tr>
+    <td align="center">
+      <h3 align="center">Game Mario Web</h3>
+      <div align="center">
+        <a href="https://nicolasesc10.github.io/Game-Mario-Web/" target="_blank"><img src="https://github.com/user-attachments/assets/323301ab-7365-4a68-bc6c-74a296bcfbd9" width="400"></a>
+        <p>
+          <a href="https://github.com/NicolasEsc10/Game-Mario-Web" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Este es mi primer proyecto de una pagina web estatica, utilizando unicamente los lenguajes HTML, CSS Y JavaScript con una librería llamada SweetAlert2 para cambiar y personalizar las alertas dentro del sitio web.</p>
+      </div>
+    </td>     
+    <td align="center" >
+      <h3 align="center">Shop.co</h3>
+      <div align="center">
+        <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank"><img src="https://github.com/user-attachments/assets/14fd60f0-7fc6-4319-92cd-8792a4cadf35" width="400"></a>
+        <p>
+          <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Shop.co</strong> is a ecommerce platform designed for both young adults and seasoned shoppers, offering a rich selection of over 200 international brands and 2,000 high-quality products. Boasting 30,000+ happy customers, the platform is built using a robust tech stack that includes Next.js for frontend development</p>
+      </div>
+    </td> 
+  </tr>
+   <tr>
+    <td align="center">
+      <h3 align="center">Age calculator app</h3>
+      <div align="center">
+        <a href="https://nicolasesc10.github.io/Age-calculator-app/" target="_blank"><img src="https://github.com/user-attachments/assets/bcf47366-7f76-4acb-bf13-a8270f11619a" width="400"></a>
+        <p>
+          <a href="https://github.com/NicolasEsc10/Age-calculator-app" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>I developed this application with the purpose of calculating the user's current age in a simple and accurate way by entering the day, month, and year of birth. The application will provide the user's current age in years, months, and days.</p>
+      </div>
+    </td>     
+    <td align="center" >
+    </td> 
   </tr>
 </table>
 

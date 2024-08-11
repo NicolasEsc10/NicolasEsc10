@@ -97,7 +97,17 @@
         <p>I developed this application with the purpose of calculating the user's current age in a simple and accurate way by entering the day, month, and year of birth. The application will provide the user's current age in years, months, and days.</p>
       </div>
     </td>     
-    <td align="center" >
+    <td align="center">
+      <h3 align="center">Preguntados Mundial Qatar 2022</h3>
+      <div align="center">
+        <a href="https://nicolasesc10.github.io/Preguntados-Mundial-Qatar-2022/" target="_blank"><img src="https://github.com/user-attachments/assets/0c8c01b7-e04a-4da5-ae0d-1a25af5e168e" width="400"></a>
+        <p>
+          <a href="https://github.com/NicolasEsc10/Preguntados-Mundial-Qatar-2022" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>🧉 Un juego web de preguntas sobre el Mundial de Fútbol Qatar 2022 con varios modos, incluyendo Jugadores, Mundial, Equipos y Partida Rápida, que es una recopilación de los modos mencionados.</p>
+      </div>
     </td> 
   </tr>
 </table>

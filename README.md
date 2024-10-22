@@ -36,9 +36,9 @@
     <td align="center" >
       <h3 align="center">Smart Help</h3>
       <div align="center">
-        <a href="https://smart-help-c16.vercel.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="400"></a>
+        <a href="https://smart-help-8hha.vercel.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="400"></a>
         <p>
-          <a href="https://github.com/No-Country/c16-60-t-node-react" target="_blank">
+          <a href="https://smart-help-8hha.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>

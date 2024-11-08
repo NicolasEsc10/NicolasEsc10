@@ -33,84 +33,97 @@
 
 <table>
   <tr>
-    <td align="center" >
+    <td align="center" style="width: 50%;">
       <h3 align="center">Smart Help</h3>
       <div align="center">
-        <a href="https://smart-help-8hha.vercel.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="400"></a>
+        <a href="https://smart-helps.vercel.app/" target="_blank">
+          <img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/c5cecb72-69b0-4110-8b62-a77735b664ec" width="300">
+        </a>
         <p>
-          <a href="https://smart-help-8hha.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://smart-helps.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/P%C3%A1gina-grey?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
-        <p><strong>SmartHelp</strong> es una plataforma de donaciones intuitiva y fácil de usar, diseñada para conectar a personas con causas significativas. Con nuestra herramienta, puedes descubrir y apoyar una variedad de proyectos benéficos, desde la comodidad de tu navegador.</p>
+        <p><strong>SmartHelp</strong> es una plataforma de donaciones intuitiva y fácil de usar, diseñada para conectar a personas con causas significativas.</p>
       </div>
-    </td> 
-    <td align="center">
+    </td>
+    <td align="center" style="width: 50%;">
       <h3 align="center">Calculator App</h3>
       <div align="center">
-        <a href="https://calculator-app-repository.netlify.app/" target="_blank"><img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/e0755569-857a-4c1d-957b-aebacf566ab1" width="400"></a>
+        <a href="https://calculator-app-repository.netlify.app/" target="_blank">
+          <img src="https://github.com/NicolasEsc10/NicolasEsc10/assets/113264514/e0755569-857a-4c1d-957b-aebacf566ab1" width="300">
+        </a>
         <p>
           <a href="https://github.com/NicolasEsc10/Calculator-app" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>📚 <strong>Calculator App</strong> is a simple and minimalist web application for a calculator. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division accurately and precisely.</p>
+        <p>📚 <strong>Calculator App</strong> es una aplicación web para realizar operaciones aritméticas básicas con precisión.</p>
       </div>
-    </td>     
+    </td>
   </tr>
   <tr>
     <td align="center">
       <h3 align="center">Game Mario Web</h3>
       <div align="center">
-        <a href="https://nicolasesc10.github.io/Game-Mario-Web/" target="_blank"><img src="https://github.com/user-attachments/assets/323301ab-7365-4a68-bc6c-74a296bcfbd9" width="400"></a>
+        <a href="https://nicolasesc10.github.io/Game-Mario-Web/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/323301ab-7365-4a68-bc6c-74a296bcfbd9" width="300">
+        </a>
         <p>
           <a href="https://github.com/NicolasEsc10/Game-Mario-Web" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Este es mi primer proyecto de una pagina web estatica, utilizando unicamente los lenguajes HTML, CSS Y JavaScript con una librería llamada SweetAlert2 para cambiar y personalizar las alertas dentro del sitio web.</p>
+        <p>Este es mi primer proyecto de una página web estática utilizando HTML, CSS y JavaScript con la librería SweetAlert2.</p>
       </div>
-    </td>     
-    <td align="center" >
+    </td>
+    <td align="center">
       <h3 align="center">Shop.co</h3>
       <div align="center">
-        <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank"><img src="https://github.com/user-attachments/assets/14fd60f0-7fc6-4319-92cd-8792a4cadf35" width="400"></a>
+        <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank">
+          <img src="https://github.com/user-attachments/assets/14fd60f0-7fc6-4319-92cd-8792a4cadf35" width="300">
+        </a>
         <p>
           <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p><strong>Shop.co</strong> is a ecommerce platform designed for both young adults and seasoned shoppers, offering a rich selection of over 200 international brands and 2,000 high-quality products. Boasting 30,000+ happy customers, the platform is built using a robust tech stack that includes Next.js for frontend development</p>
+        <p><strong>Shop.co</strong> es una plataforma de ecommerce con una selección de marcas internacionales y una base de clientes fieles.</p>
       </div>
-    </td> 
+    </td>
   </tr>
-   <tr>
+  <tr>
     <td align="center">
-      <h3 align="center">Age calculator app</h3>
+      <h3 align="center">Age Calculator App</h3>
       <div align="center">
-        <a href="https://nicolasesc10.github.io/Age-calculator-app/" target="_blank"><img src="https://github.com/user-attachments/assets/bcf47366-7f76-4acb-bf13-a8270f11619a" width="400"></a>
+        <a href="https://nicolasesc10.github.io/Age-calculator-app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/bcf47366-7f76-4acb-bf13-a8270f11619a" width="300">
+        </a>
         <p>
           <a href="https://github.com/NicolasEsc10/Age-calculator-app" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>I developed this application with the purpose of calculating the user's current age in a simple and accurate way by entering the day, month, and year of birth. The application will provide the user's current age in years, months, and days.</p>
+        <p><strong>Age Calculator App</strong> calcula la edad del usuario en años, meses y días ingresando la fecha de nacimiento.</p>
       </div>
-    </td>     
+    </td>
     <td align="center">
       <h3 align="center">Preguntados Mundial Qatar 2022</h3>
       <div align="center">
-        <a href="https://nicolasesc10.github.io/Preguntados-Mundial-Qatar-2022/" target="_blank"><img src="https://github.com/user-attachments/assets/0c8c01b7-e04a-4da5-ae0d-1a25af5e168e" width="400"></a>
+        <a href="https://nicolasesc10.github.io/Preguntados-Mundial-Qatar-2022/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/0c8c01b7-e04a-4da5-ae0d-1a25af5e168e" width="300">
+        </a>
         <p>
           <a href="https://github.com/NicolasEsc10/Preguntados-Mundial-Qatar-2022" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/C%C3%B3digo-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>🧉 Un juego web de preguntas sobre el Mundial de Fútbol Qatar 2022 con varios modos, incluyendo Jugadores, Mundial, Equipos y Partida Rápida, que es una recopilación de los modos mencionados.</p>
+        <p>🧉 Juego web de preguntas sobre el Mundial de Fútbol Qatar 2022 con varios modos, incluyendo jugadores y equipos.</p>
       </div>
-    </td> 
+    </td>
   </tr>
 </table>
+
 
 <br>
 

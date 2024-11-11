@@ -80,12 +80,12 @@
     <td align="center">
       <h3 align="center">Shop.co</h3>
       <div align="center">
-        <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank">
+        <a href="https://shop-co-web-ecommerce.vercel.app/" target="_blank">
           <img src="https://github.com/user-attachments/assets/14fd60f0-7fc6-4319-92cd-8792a4cadf35" width="300">
         </a>
         <p>
-          <a href="https://github.com/Lostovayne/shop.co-ecommerce" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%B3digo-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://shop-co-web-ecommerce.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/P%C3%A1gina-grey?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </p>
         <p><strong>Shop.co</strong> es una plataforma de ecommerce con una selección de marcas internacionales y una base de clientes fieles.</p>

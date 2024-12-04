@@ -76,6 +76,26 @@ Besides being a developer, I'm passionate about music, especially playing the <s
     </tr>
     <tr>
       <td width="50%" valign="top">
+        <h3 align="center">FoodWagon</h3>
+        <div align="center">
+          <a href="https://food-wagon-app.netlify.app/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/c1f1b2d1-9b25-4789-918e-1897a2f4212e" width="100%" alt="FoodWagon"/>
+          </a>
+          <p align="center">
+            <code>Astro</code> •
+            <code>React</code> •
+            <code>TypeScript</code> •
+            <code>Tailwind</code>
+          </p>
+          <p>
+            <a href="https://github.com/NicolasEsc10/FoodWagon" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>
+          <p>🍴 <strong>FoodWagon</strong> | Modern and responsive delivery platform for food orders.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
         <h3 align="center">Calculator App</h3>
         <div align="center">
           <a href="https://calculator-app-repository.netlify.app/" target="_blank">
@@ -94,6 +114,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Game Mario Web</h3>
         <div align="center">
@@ -113,8 +135,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Age Calculator App</h3>
         <div align="center">
@@ -134,6 +154,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           <p><strong>Age Calculator App</strong> calculates the user's age in years, months, and days by entering their date of birth.</p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Preguntados Mundial Qatar 2022</h3>
         <div align="center">
@@ -152,6 +174,9 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
           <p>🧉 Juego web de preguntas sobre el Mundial de Fútbol Qatar 2022 con varios modos, incluyendo jugadores y equipos.</p>
         </div>
+      </td>
+      <td width="50%" valign="top">
+        <!-- Celda vacía para mantener la estructura -->
       </td>
     </tr>
   </table>

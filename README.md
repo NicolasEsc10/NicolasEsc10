@@ -24,6 +24,7 @@ Hello! 👋 I'm <strong>Nicolas Escobar</strong>, a <strong>Front End</strong> d
 Besides being a developer, I'm passionate about music, especially playing the <strong>guitar</strong> in my free time. I always stay up-to-date with <strong>cutting-edge technologies</strong> to keep up with the latest trends.
 
 #### Let's create something amazing together! 🚀
+
 </div>
 
 <br>
@@ -96,6 +97,28 @@ Besides being a developer, I'm passionate about music, especially playing the <s
         </div>
       </td>
       <td width="50%" valign="top">
+        <h3 align="center">Spotify Clone</h3>
+        <div align="center">
+          <a href="https://clone-spotify-app-web.netlify.app/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/4b263ed3-b307-4185-9d9d-145a0fbd9bbe" width="100%" alt="Spotify Clone"/>
+          </a>
+          <p align="center">
+            <code>React</code> •
+            <code>TypeScript</code> •
+            <code>Tailwind</code> •
+            <code>Astro</code>
+          </p>
+          <p>🎵 <strong>Spotify Clone</strong> | Una réplica moderna de la popular plataforma de streaming musical.</p>
+          <p>
+            <a href="https://github.com/NicolasEsc10/spotify-clone" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
         <h3 align="center">Calculator App</h3>
         <div align="center">
           <a href="https://calculator-app-repository.netlify.app/" target="_blank">
@@ -114,8 +137,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Game Mario Web</h3>
         <div align="center">
@@ -135,6 +156,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Age Calculator App</h3>
         <div align="center">
@@ -154,8 +177,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           <p><strong>Age Calculator App</strong> calculates the user's age in years, months, and days by entering their date of birth.</p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Preguntados Mundial Qatar 2022</h3>
         <div align="center">
@@ -174,9 +195,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
           <p>🧉 Juego web de preguntas sobre el Mundial de Fútbol Qatar 2022 con varios modos, incluyendo jugadores y equipos.</p>
         </div>
-      </td>
-      <td width="50%" valign="top">
-        <!-- Celda vacía para mantener la estructura -->
       </td>
     </tr>
   </table>

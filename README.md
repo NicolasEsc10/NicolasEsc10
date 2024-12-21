@@ -88,12 +88,12 @@ Besides being a developer, I'm passionate about music, especially playing the <s
             <code>TypeScript</code> •
             <code>Tailwind</code>
           </p>
+          <p>🍴 <strong>FoodWagon</strong> | Modern and responsive delivery platform for food orders.</p>
           <p>
             <a href="https://github.com/NicolasEsc10/FoodWagon" target="_blank">
               <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>
           </p>
-          <p>🍴 <strong>FoodWagon</strong> | Modern and responsive delivery platform for food orders.</p>
         </div>
       </td>
       <td width="50%" valign="top">

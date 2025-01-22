@@ -35,6 +35,26 @@ Besides being a developer, I'm passionate about music, especially playing the <s
   <table>
     <tr>
       <td width="50%" valign="top">
+        <h3 align="center">Portfolio</h3>
+        <div align="center">
+          <a href="https://nicolas-escobar.vercel.app/" target="_blank">
+            <img src="https://github.com/user-attachments/assets/c1f71edf-0ef7-4bdb-a553-616b93ac3f5a" width="100%" alt="Portfolio"/>
+          </a>
+          <p align="center">
+            <code>React</code> •
+            <code>TypeScript</code> •
+            <code>Tailwind</code> •
+            <code>Framer Motion</code>
+          </p>
+          <p><strong>Personal Portfolio</strong> | My personal website where I showcase my projects and skills as a developer.</p>
+          <p>
+            <a href="https://nicolas-escobar.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
         <h3 align="center">Shop.co</h3>
         <div align="center">
           <a href="https://shop-co-apps.vercel.app/" target="_blank">
@@ -54,6 +74,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Smart Help</h3>
         <div align="center">
@@ -74,8 +96,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">FoodWagon</h3>
         <div align="center">
@@ -96,6 +116,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Spotify Clone</h3>
         <div align="center">
@@ -116,8 +138,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Calculator App</h3>
         <div align="center">
@@ -137,6 +157,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Game Mario Web</h3>
         <div align="center">
@@ -156,8 +178,6 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           </p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Age Calculator App</h3>
         <div align="center">
@@ -177,6 +197,8 @@ Besides being a developer, I'm passionate about music, especially playing the <s
           <p><strong>Age Calculator App</strong> calculates the user's age in years, months, and days by entering their date of birth.</p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top">
         <h3 align="center">Preguntados Mundial Qatar 2022</h3>
         <div align="center">

@@ -3,14 +3,23 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&random=false&width=750&height=62&lines=A+Front+End+Developer" alt="Typing SVG" /></a>
 </h1>
 
-<div>
+<a href="https://nicolas-escobar.vercel.app/" target="_blank">
+  <img width="100%" src="https://github.com/user-attachments/assets/e1727f9a-f104-4be4-ae3f-9bc74d15305e" alt="Banner">
+</a>
 
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nicolas-esc10/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/nicolas__dev/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://nicolas-escobar.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
 </div>
-<div style="display: flex; flex-direction:row;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</div>
-<br>
+
+<br><br>
 
 <h2 style="font-weight: 700;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="35" height="35" /> About me</h2>
 

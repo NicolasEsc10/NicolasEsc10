@@ -24,7 +24,7 @@
 <h2 style="font-weight: 700;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="35" height="35" /> About me</h2>
 
 <div>
-Hello! 👋 I'm <strong>Nicolas Escobar</strong>, a <strong>Front End</strong> developer with <strong>5 years</strong> of experience in the field. I've worked as a <strong>freelancer</strong> and collaborated with amazing people in the same industry. My passion for programming <strong>started at the age of 15</strong> when I wrote my first lines of code and began learning on my own.
+Hello! 👋 I'm <strong>Nicolas Escobar</strong>, a <strong>Front End</strong> developer with <strong>5 years</strong> of experience in the field. I've worked as a <strong>freelancer</strong> and collaborated with amazing people in the same industry. My passion for programming <strong>started at the age of 17</strong> when I wrote my first lines of code and began learning on my own.
 </div>
 
 <br>

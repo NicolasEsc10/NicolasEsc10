@@ -1,11 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&random=false&width=700&height=60&lines=Hi!%2C+I'm+Nicolas" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&random=false&width=750&height=62&lines=A+Front+End+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&random=false&width=750&height=62&lines=A+Full+Stack+Developer" alt="Typing SVG" /></a>
 </h1>
-
-<a href="https://nicolas-escobar.vercel.app/" target="_blank">
-  <img width="100%" src="https://github.com/user-attachments/assets/e1727f9a-f104-4be4-ae3f-9bc74d15305e" alt="Banner">
-</a>
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/nicolas-esc10/" target="_blank">
@@ -24,7 +20,7 @@
 <h2 style="font-weight: 700;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="35" height="35" /> About me</h2>
 
 <div>
-Hello! 👋 I'm <strong>Nicolas Escobar</strong>, a <strong>Front End</strong> developer with <strong>5 years</strong> of experience in the field. I've worked as a <strong>freelancer</strong> and collaborated with amazing people in the same industry. My passion for programming <strong>started at the age of 17</strong> when I wrote my first lines of code and began learning on my own.
+Hello! 👋 I'm <strong>Nicolas Escobar</strong>, a <strong>Full stack</strong> developer with experience in the field. I've worked as a <strong>freelancer</strong> and collaborated with amazing people in the same industry. My passion for programming <strong>started at the age of 17</strong> when I wrote my first lines of code and began learning on my own.
 </div>
 
 <br>
@@ -38,7 +34,7 @@ Besides being a developer, I'm passionate about music, especially playing the <s
 
 <br>
 
-<h2 style="font-weight: 700;"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" alt="Hot Beverage" width="35" height="35" /> Featured Projects</h2>
+<h2 style="font-weight: 700;"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" alt="Hot Beverage" width="35" height="35" /> Old Projects</h2>
 
 <div align="center">
   <table>
